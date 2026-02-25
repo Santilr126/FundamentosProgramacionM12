@@ -24,6 +24,7 @@ namespace _3.CondicionalesDoblesCompuestos
                 //Si la condicion es falsa
                 Console.WriteLine("La persona está exenta de impuestos");
             }*/
+            
             /*Crear un algoritmo que permita ingresar dos numeros, si el primer numero es mayor al segundo numero informar su suma y diferencia, en caso contrario informar el producto y la division del primer numero respecto al segundo numero*/
             float Num1 = 0;
             float Num2 = 0;
@@ -32,13 +33,14 @@ namespace _3.CondicionalesDoblesCompuestos
             Console.WriteLine("Ingrese el segundo numero");
             Num2 = Single.Parse(Console.ReadLine());
 
-            if (Num1>Num2)
+            if (Num1 > Num2)
             {
+                Console.WriteLine($"La suma de los dos numeros es: {Num1 + Num2}, la resta es: {Num1 - Num2}");
 
             }
             else
             {
-
+                Console.WriteLine($"El producto de los dos numeros es: {Num1*Num2}, la divición es: {Num1/Num2}");
             }
         }
     }
