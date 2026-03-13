@@ -1,0 +1,23 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int acumulador=0;
+        int numero=0;
+        
+        Console.WriteLine("Ingrese un numero entero positivo");
+        numero=Convert.ToInt32(Console.ReadLine());
+        
+        while(numero>=0)
+        {
+            acumulador+=numero;
+            Console.WriteLine("Ingrese un numero entero positivo");
+            numero=Convert.ToInt32(Console.ReadLine());
+        }
+        
+        Console.WriteLine($"La suma de los numeros ingresados es: {acumulador}");
+        
+    }
+}

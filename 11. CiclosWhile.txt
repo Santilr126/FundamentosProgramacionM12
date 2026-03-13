@@ -1,0 +1,62 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        /*Realizar un algoritmo que permita obtener la suma de todos los numeros impares hasta el 99.*/
+        
+        /*int contador=2;
+        int acumulador=1;
+        
+        while(contador<=99)
+        {
+            acumulador+=contador;
+            contador++;
+        }
+        
+        Console.WriteLine($"La suma de todos los numeros impares hasta 99 es: {acumulador}");*/
+
+	/* Realizar un algoritmo que le pida al usuario ingresar por teclado números enteros al azar. Al usuario le corresponde ingresar la contidad de numeros que va a introducir.
+        a. El algortimo debe escribir en pantalla:
+        i. La cantidad de numeros introducidos que son mayores que 0
+        ii. La cantidad de numeros introducidos que son menores que 0
+        iii. La cantidad de numeros inguales a 0*/
+        
+        int cantidadNumeros=0;
+        int contadorNumeros=1;
+        int numero=0;
+        int ceros=0;
+        int mayorCero=0;
+        int menorCero=0;
+        
+        Console.WriteLine("¿Cuantos numeros desea ingresar?");
+        cantidadNumeros=int.Parse(Console.ReadLine());
+        
+        while(contadorNumeros<=cantidadNumeros)
+        {
+            Console.WriteLine($"Ingrese el valor para el numero {contadorNumeros}");
+            numero=int.Parse(Console.ReadLine());
+            
+            if(numero==0)
+            {
+                ceros++;
+            }
+            else
+            {
+              if (numero>0)
+              {
+                  mayorCero++;
+              }
+              else
+              {
+                  menorCero++;
+              }
+            }
+            
+            contadorNumeros++;
+        }
+        
+        Console.WriteLine($"Ceros: {ceros}, Mayores a cero: {mayorCero}, Menores a cero: {menorCero}");
+    }
+}
