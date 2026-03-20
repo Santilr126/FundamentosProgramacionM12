@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\bin\Debug\14.CicloWhile.exe.config
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\bin\Debug\14.CicloWhile.exe
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\bin\Debug\14.CicloWhile.pdb
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\obj\Debug\14.CicloWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\obj\Debug\14.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\obj\Debug\14.CicloWhile.exe
+C:\Users\B09S104est\source\repos\14.CicloWhile\14.CicloWhile\obj\Debug\14.CicloWhile.pdb
