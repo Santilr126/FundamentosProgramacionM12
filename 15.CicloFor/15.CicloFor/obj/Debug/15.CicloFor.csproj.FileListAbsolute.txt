@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.exe.config
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.exe
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\bin\Debug\15.CicloFor.pdb
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.exe
+C:\Users\B09S104est\source\repos\15.CicloFor\15.CicloFor\obj\Debug\15.CicloFor.pdb
