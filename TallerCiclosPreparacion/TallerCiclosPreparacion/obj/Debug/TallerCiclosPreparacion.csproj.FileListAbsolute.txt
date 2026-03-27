@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\bin\Debug\TallerCiclosPreparacion.exe.config
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\bin\Debug\TallerCiclosPreparacion.exe
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\bin\Debug\TallerCiclosPreparacion.pdb
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\obj\Debug\TallerCiclosPreparacion.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\obj\Debug\TallerCiclosPreparacion.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\obj\Debug\TallerCiclosPreparacion.exe
+C:\Users\B09S104est\source\repos\TallerCiclosPreparacion\TallerCiclosPreparacion\obj\Debug\TallerCiclosPreparacion.pdb
