@@ -1,0 +1,7 @@
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\bin\Debug\21.Modular1.exe.config
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\bin\Debug\21.Modular1.exe
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\bin\Debug\21.Modular1.pdb
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\obj\Debug\21.Modular1.csproj.AssemblyReference.cache
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\obj\Debug\21.Modular1.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\obj\Debug\21.Modular1.exe
+C:\Users\B09S104est\source\repos\21.Modular1\21.Modular1\obj\Debug\21.Modular1.pdb
