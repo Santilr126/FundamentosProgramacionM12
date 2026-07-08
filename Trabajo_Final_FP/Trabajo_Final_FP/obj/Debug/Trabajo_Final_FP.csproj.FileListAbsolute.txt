@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\bin\Debug\Trabajo_Final_FP.exe.config
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\bin\Debug\Trabajo_Final_FP.exe
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\bin\Debug\Trabajo_Final_FP.pdb
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\obj\Debug\Trabajo_Final_FP.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\obj\Debug\Trabajo_Final_FP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\obj\Debug\Trabajo_Final_FP.exe
+C:\Users\ASUS\source\repos\Trabajo_Final_FP\Trabajo_Final_FP\obj\Debug\Trabajo_Final_FP.pdb
